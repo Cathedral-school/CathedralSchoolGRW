@@ -1,2 +1,0 @@
-# CathedralSchoolGRW
-A School Website

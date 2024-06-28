@@ -1,0 +1,36 @@
+body {
+	font-size: 16px;
+}
+
+#header-nav {
+	background-color:#61122f;
+}
+
+
+#logo-img {
+	background: url(logo.png) no-repeat;
+	width: 150px;
+	height: 150px;
+	margin: 10px 15px 10px 0;
+}
+
+.navbar-brand {
+	padding-top: 25px;
+}
+.navbar-brand p {text-align: center; color: white;
+
+}
+.navbar-brand {
+	font-family: Playfair Display SC;
+	font-size: 1.2em;
+	text-transform: uppercase;
+	line-height: .75;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+h1 {
+	color: white;
+}
+.navbar-header > a { float:left; }
